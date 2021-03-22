@@ -1,4 +1,10 @@
 # Repositório MC322
 Repositório para upload de exercícios da matéria MC322 1s2021
 
+##Aluno
+* Thiago Donato Ferreira
+
+##Curso
+* Engenharia da Computação
+
 Abrir repositório do Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/flowln/MC322/HEAD)
