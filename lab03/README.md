@@ -3,5 +3,5 @@
 ## Notebook
 * [Notebook com a tarefa](notebook/lab-lombriga.ipynb)
 
-## Eclipse
-* [Projeto equivalente no Eclipse](eclipse/)
+## Arquivos Java
+* [Projeto equivalente no Eclipse](src/mc322/lab03)
